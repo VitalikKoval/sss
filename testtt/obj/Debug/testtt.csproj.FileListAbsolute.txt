@@ -1,0 +1,10 @@
+c:\users\martin\source\repos\testtt\testtt\bin\Debug\testtt.exe.config
+c:\users\martin\source\repos\testtt\testtt\bin\Debug\testtt.exe
+c:\users\martin\source\repos\testtt\testtt\bin\Debug\testtt.pdb
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.csprojResolveAssemblyReference.cache
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.Form1.resources
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.Properties.Resources.resources
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.csproj.GenerateResource.Cache
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.csproj.CoreCompileInputs.cache
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.exe
+c:\users\martin\source\repos\testtt\testtt\obj\Debug\testtt.pdb
